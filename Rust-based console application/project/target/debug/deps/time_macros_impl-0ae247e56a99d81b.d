@@ -1,0 +1,11 @@
+D:\Rust-based console application\project\target\debug\deps\time_macros_impl-0ae247e56a99d81b.dll: C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\lib.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\date.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\ext.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\offset.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time_crate\mod.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time_crate\date.rs
+
+D:\Rust-based console application\project\target\debug\deps\time_macros_impl-0ae247e56a99d81b.d: C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\lib.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\date.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\ext.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\offset.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time_crate\mod.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time_crate\date.rs
+
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\lib.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\date.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\ext.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\offset.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time_crate\mod.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-macros-impl-0.1.2\src\time_crate\date.rs:

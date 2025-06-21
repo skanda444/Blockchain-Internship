@@ -1,0 +1,13 @@
+D:\Rust-based console application\project\target\debug\deps\libpom-1d9b59a1052fbd9a.rmeta: C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\lib.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\range.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\result.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\set.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\parser.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\char_class.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\utf8.rs
+
+D:\Rust-based console application\project\target\debug\deps\libpom-1d9b59a1052fbd9a.rlib: C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\lib.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\range.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\result.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\set.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\parser.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\char_class.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\utf8.rs
+
+D:\Rust-based console application\project\target\debug\deps\pom-1d9b59a1052fbd9a.d: C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\lib.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\range.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\result.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\set.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\parser.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\char_class.rs C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\utf8.rs
+
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\lib.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\range.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\result.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\set.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\parser.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\char_class.rs:
+C:\Users\Hi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pom-3.4.0\src\utf8.rs:

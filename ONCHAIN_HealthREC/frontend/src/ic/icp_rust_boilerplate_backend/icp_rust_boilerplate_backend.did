@@ -1,0 +1,42 @@
+type ChangeRecord = record { change_type : text; timestamp : nat64 };
+type Error = variant { NotFound : record { msg : text } };
+type PatientDetails = record {
+  id : nat64;
+  patient_name : text;
+  updated_at : opt nat64;
+  patient_history : text;
+  created_at : nat64;
+  in_clinic : bool;
+  next_appointment : nat64;
+  doctor_name : text;
+};
+type PatientDetailsPayload = record {
+  patient_name : text;
+  patient_history : text;
+  in_clinic : bool;
+  next_appointment : nat64;
+  doctor_name : text;
+};
+type Result = variant { Ok : PatientDetails; Err : Error };
+type Result_1 = variant { Ok : bool; Err : Error };
+service : {
+  add_patient : (PatientDetailsPayload) -> (opt PatientDetails);
+  bulk_update_patients : (vec record { nat64; PatientDetailsPayload }) -> (
+      vec Result,
+    );
+  delete_patient : (nat64) -> (Result);
+  get_all_patients : () -> (vec PatientDetails) query;
+  get_available_patients : () -> (vec PatientDetails) query;
+  get_paginated_patients : (nat64, nat64) -> (vec PatientDetails) query;
+  get_patient : (nat64) -> (Result) query;
+  get_patient_update_history : (nat64) -> (vec ChangeRecord) query;
+  greet : (text) -> (text) query;
+  mark_patient_in_clinic : (nat64) -> (Result);
+  mark_patient_not_in_clinic : (nat64) -> (Result);
+  patient_in_clinic : (nat64) -> (Result_1) query;
+  search_doctors : (text) -> (vec PatientDetails) query;
+  search_patients : (text) -> (vec PatientDetails) query;
+  set_next_appointment : (nat64, nat64) -> (Result);
+  sort_patient_by_name : () -> (vec PatientDetails) query;
+  update_patient : (nat64, PatientDetailsPayload) -> (Result);
+}

@@ -1,0 +1,35 @@
+after git clone
+cd frontend,
+then npm install 
+
+then onto root folder, 
+do dfx start --clean
+then, 
+
+dfx canister create icp_rust_boilerplate_backend
+
+dfx generate icp_rust_boilerplate_backend
+
+
+dfx canister id icp_rust_boilerplate_backend
+
+save the canister id, will be used later
+
+
+dfx deploy
+if error 
+cd frontend
+mkdir assets
+
+now in root folder check if .env file has 
+VITE_CANISTER_ID_ICP_RUST_BOILERPLATE_BACKEND
+if not, add
+VITE_CANISTER_ID_ICP_RUST_BOILERPLATE_BACKEND=uxrrr-q7777-77774-qaaaq-cai
+
+replace canister id saved earlier
+save then
+
+cp .env frontend/.env
+
+cd frontend
+npm run dev
